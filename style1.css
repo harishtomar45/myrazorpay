@@ -227,11 +227,12 @@
     }
     
     .section7 .right-one img{
-        width: 450px;
+        display: none;
+        width: 335px;
         /* height: 500px; */
         position: relative;
         /* top: -600px; */
-        z-index: -1;
+        z-index: 1;
         right: 80px;
         /* top:0px; */
         /* bottom: 200px; */
@@ -240,7 +241,7 @@
     
 
     .section8{
-        margin-top: -800px;
+        /* margin-top: -800px; */
         width: 100%;
         padding-inline: 20px;
         /* flex-direction: column; */
@@ -320,18 +321,6 @@
 }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
